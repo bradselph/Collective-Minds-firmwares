@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ApplicationUpdateManifest xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://collectiveminds.com/application/update/manifest/v1">
+  <LatestAvailableApplicationUrl>https://cmupdate.cminfra.net/appupdate/cmupdatetool/cmupdatetool-1.1.13.exe</LatestAvailableApplicationUrl>
+  <LatestAvailableApplicationVersion xmlns:d2p1="http://schemas.datacontract.org/2004/07/Semver">
+    <SemVersion xmlns:d3p1="http://www.w3.org/2001/XMLSchema" i:type="d3p1:string" xmlns="">1.1.13</SemVersion>
+  </LatestAvailableApplicationVersion>
+  <MinimumRequiredApplicationVersion xmlns:d2p1="http://schemas.datacontract.org/2004/07/Semver" i:nil="true" />
+</ApplicationUpdateManifest>
